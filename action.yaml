@@ -72,7 +72,8 @@ runs:
         ####--------------------------------------------------------------------
         ## echo "::set-output name=github-personal-token::${github_personal_token}" ;
         ####--------------------------------------------------------------------
-        ## echo "::set-env name=GITHUB_PERSONAL_TOKEN::${github_personal_token}" ;
+        #### echo "::set-env name=GITHUB_PERSONAL_TOKEN::${github_personal_token}" ;
+        #### echo "GITHUB_PERSONAL_TOKEN=${github_personal_token}" >> ${GITHUB_ENV} ;
         ####--------------------------------------------------------------------
         echo -e "\nCompleted! " ;
         ####--------------------------------------------------------------------

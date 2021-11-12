@@ -2,7 +2,7 @@
 $ python --version ;
 Python 2.7.16
 
-$ source ~/bin/manage-profiles.shell ;
+$ source ~/.local/bin/manage-profiles.shell ;
 $ manage-profiles $(cat ~/.github.token);
 
 Python 2.7.16
