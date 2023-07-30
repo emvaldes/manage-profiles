@@ -2724,7 +2724,7 @@
 [2020-08-08 21:19:36Z INFO ExtensionManager] Creating instance: GitHub.Runner.Worker.EchoCommandExtension, Runner.Worker
 [2020-08-08 21:19:36Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:36Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:36Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:36Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:36Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:36Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:36Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -2755,7 +2755,7 @@
 [2020-08-08 21:19:37Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:37Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:37Z INFO ProcessInvokerWrapper] Finished process 5405 with exit code 0, and elapsed time 00:00:00.7746207.
-[2020-08-08 21:19:37Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:37Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:37Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:37Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:37Z INFO StepsRunner] Processing step: DisplayName='Installing AWS CLI'
@@ -2771,7 +2771,7 @@
 [2020-08-08 21:19:37Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:37Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:37Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:37Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:37Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:37Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:37Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:37Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -2809,7 +2809,7 @@
 [2020-08-08 21:19:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:38Z INFO ProcessInvokerWrapper] Finished process 5426 with exit code 0, and elapsed time 00:00:00.9593353.
-[2020-08-08 21:19:38Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:38Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:38Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:38Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:38Z INFO StepsRunner] Processing step: DisplayName='Inpsecting AWS CLI Version'
@@ -2825,7 +2825,7 @@
 [2020-08-08 21:19:38Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -2866,7 +2866,7 @@
 [2020-08-08 21:19:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:38Z INFO ProcessInvokerWrapper] Finished process 5436 with exit code 0, and elapsed time 00:00:00.5686929.
-[2020-08-08 21:19:38Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:38Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:38Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:38Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:38Z INFO StepsRunner] Processing step: DisplayName='Testing AWS CLI'
@@ -2882,7 +2882,7 @@
 [2020-08-08 21:19:38Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:38Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -2921,7 +2921,7 @@
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] Finished process 5443 with exit code 0, and elapsed time 00:00:01.2534393.
-[2020-08-08 21:19:40Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:40Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:40Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:40Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:40Z INFO StepsRunner] Processing step: DisplayName='Downloading Terraform'
@@ -2937,7 +2937,7 @@
 [2020-08-08 21:19:40Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -2974,7 +2974,7 @@
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] Finished process 5456 with exit code 0, and elapsed time 00:00:00.0308223.
-[2020-08-08 21:19:40Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:40Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:40Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:40Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:40Z INFO StepsRunner] Processing step: DisplayName='Inpsecting Terraform Version'
@@ -2990,7 +2990,7 @@
 [2020-08-08 21:19:40Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3026,7 +3026,7 @@
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:40Z INFO ProcessInvokerWrapper] Finished process 5473 with exit code 0, and elapsed time 00:00:00.0293181.
-[2020-08-08 21:19:40Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:40Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:40Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:40Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:40Z INFO StepsRunner] Processing step: DisplayName='Initializing Terraform'
@@ -3042,7 +3042,7 @@
 [2020-08-08 21:19:40Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:40Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3087,7 +3087,7 @@
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] Finished process 5489 with exit code 0, and elapsed time 00:00:04.2833064.
-[2020-08-08 21:19:44Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:44Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:44Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:44Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:44Z INFO StepsRunner] Processing step: DisplayName='Terraform Workspace'
@@ -3103,7 +3103,7 @@
 [2020-08-08 21:19:44Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3139,7 +3139,7 @@
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] Finished process 5507 with exit code 0, and elapsed time 00:00:00.0365662.
-[2020-08-08 21:19:44Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:44Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:44Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:44Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:44Z INFO StepsRunner] Processing step: DisplayName='Terraform Formatting-Check'
@@ -3155,7 +3155,7 @@
 [2020-08-08 21:19:44Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3193,7 +3193,7 @@
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:44Z INFO ProcessInvokerWrapper] Finished process 5524 with exit code 0, and elapsed time 00:00:00.0435834.
-[2020-08-08 21:19:44Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:44Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:44Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:44Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:44Z INFO StepsRunner] Processing step: DisplayName='Validating & Testing Terraaform'
@@ -3209,7 +3209,7 @@
 [2020-08-08 21:19:44Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:44Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3248,7 +3248,7 @@
 [2020-08-08 21:19:48Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:48Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:48Z INFO ProcessInvokerWrapper] Finished process 5540 with exit code 0, and elapsed time 00:00:03.5137570.
-[2020-08-08 21:19:48Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:48Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:48Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:48Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:48Z INFO StepsRunner] Processing step: DisplayName='Generating Terraform Plan'
@@ -3264,7 +3264,7 @@
 [2020-08-08 21:19:48Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:48Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:48Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:48Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:48Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:48Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:48Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:48Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3308,7 +3308,7 @@
 [2020-08-08 21:19:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:19:56Z INFO ProcessInvokerWrapper] Finished process 5657 with exit code 0, and elapsed time 00:00:08.0109708.
-[2020-08-08 21:19:56Z INFO StepsRunner] Step result: 
+[2020-08-08 21:19:56Z INFO StepsRunner] Step result:
 [2020-08-08 21:19:56Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:19:56Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:19:56Z INFO StepsRunner] Processing step: DisplayName='Applying Terraform Plan'
@@ -3325,7 +3325,7 @@
 [2020-08-08 21:19:56Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:19:56Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:19:56Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:19:56Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:19:56Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:19:56Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:19:56Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:19:56Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3404,7 +3404,7 @@
 [2020-08-08 21:21:04Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:04Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:04Z INFO ProcessInvokerWrapper] Finished process 5840 with exit code 0, and elapsed time 00:01:08.0596239.
-[2020-08-08 21:21:04Z INFO StepsRunner] Step result: 
+[2020-08-08 21:21:04Z INFO StepsRunner] Step result:
 [2020-08-08 21:21:04Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:21:04Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:21:04Z INFO StepsRunner] Processing step: DisplayName='Displaying Terraform Configuration'
@@ -3421,7 +3421,7 @@
 [2020-08-08 21:21:04Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:21:04Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:21:04Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:21:04Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:21:04Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:21:04Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:21:04Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:21:04Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3461,7 +3461,7 @@
 [2020-08-08 21:21:06Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:06Z INFO JobServerQueue] Try to append 1 batches web console lines for record '0ada1cad-eb76-51e0-bfd5-a029dff24217', success rate: 1/1.
 [2020-08-08 21:21:06Z INFO ProcessInvokerWrapper] Finished process 5973 with exit code 0, and elapsed time 00:00:01.8625977.
-[2020-08-08 21:21:06Z INFO StepsRunner] Step result: 
+[2020-08-08 21:21:06Z INFO StepsRunner] Step result:
 [2020-08-08 21:21:06Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:21:06Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:21:06Z INFO StepsRunner] Processing step: DisplayName='Uploading Terraform Plan'
@@ -3478,7 +3478,7 @@
 [2020-08-08 21:21:06Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:21:06Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:21:06Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:21:06Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:21:06Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:21:06Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:21:06Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:21:06Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3516,7 +3516,7 @@
 [2020-08-08 21:21:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:08Z INFO ProcessInvokerWrapper] Finished process 6038 with exit code 0, and elapsed time 00:00:02.1786853.
-[2020-08-08 21:21:08Z INFO StepsRunner] Step result: 
+[2020-08-08 21:21:08Z INFO StepsRunner] Step result:
 [2020-08-08 21:21:08Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:21:08Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:21:08Z INFO StepsRunner] Processing step: DisplayName='Describing Elastic LoadBalancer'
@@ -3533,7 +3533,7 @@
 [2020-08-08 21:21:08Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3572,7 +3572,7 @@
 [2020-08-08 21:21:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:08Z INFO ProcessInvokerWrapper] Finished process 6066 with exit code 0, and elapsed time 00:00:00.6369856.
-[2020-08-08 21:21:08Z INFO StepsRunner] Step result: 
+[2020-08-08 21:21:08Z INFO StepsRunner] Step result:
 [2020-08-08 21:21:08Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:21:08Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:21:08Z INFO StepsRunner] Processing step: DisplayName='Destroying Terraform Plan'
@@ -3856,7 +3856,7 @@
 [2020-08-08 21:21:08Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command set-env
-[2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command set-output
+[2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command set->output
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command save-state
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command add-path
 [2020-08-08 21:21:08Z INFO ActionCommandManager] Register action command extension for command add-mask
@@ -3889,7 +3889,7 @@
 [2020-08-08 21:21:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
 [2020-08-08 21:21:09Z INFO ProcessInvokerWrapper] Finished process 6074 with exit code 0, and elapsed time 00:00:00.1241478.
-[2020-08-08 21:21:09Z INFO StepsRunner] Step result: 
+[2020-08-08 21:21:09Z INFO StepsRunner] Step result:
 [2020-08-08 21:21:09Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
 [2020-08-08 21:21:09Z INFO StepsRunner] Current state: job state = ''
 [2020-08-08 21:21:09Z INFO JobRunner] Finalize job.
